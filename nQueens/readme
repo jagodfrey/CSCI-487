@@ -1,0 +1,27 @@
+Produced using python-3.4.3.amd64
+imported numpy and random
+
+A few random initializations that worked
+[6 4 2 4 2 3 7 0]
+[5 6 4 6 0 4 7 5]
+[5 5 0 2 6 7 2 7]
+[3 0 1 0 2 7 3 4]
+[1 6 1 2 1 4 3 3]
+
+There are two options for use:
+
+1. Random Initialization
+    To begin with a random initialization (not seeded), answer the prompt with a one (1) digit,
+    followed by the number of queens you wish on the board.
+
+
+
+2. User Entered State
+    To begin with a user entered state, answer the initial prompt with a two (2) digit,
+    then enter each element of the state one at a time as it prompts you.
+
+
+
+Random Seed:
+    The algorithmic solution of states is seeded so as to be reproducable, however as stated above the
+    initialization of a random board is not seeded so as to provide a different board upon initialization per use.
